@@ -8,29 +8,30 @@ Key Metrics (KPIs)
 3. Average Order Value (AOV): $38
 4. Total Pizzas Sold: 50K
 5. Average Pizzas per Order: 2
+   
 Key Insights
 Sales Trends (Bar Charts)
-
+
 Orders by Weekday:
 o Friday has the highest number of orders.
 o Sunday has the lowest number of orders.
-
+
 Orders by Pizza Name and Time Period:
 o The Classic Deluxe Pizza has the highest orders overall.
 o Afternoon is the busiest time for pizza orders.
 Revenue Insights (Donut Chart)
-
+
 Pizza Category Revenue:
-o The Classic Category generates the maximum revenue.
+The Classic Category generates the maximum revenue.
 Pizza Performance (Table Chart)
-
+
 Top 5 Selling Pizzas:
 1. Barbecue Chicken Pizza
 2. California Chicken Pizza
 3. Classic Deluxe Pizza
 4. Spicy Italian Pizza
 5. Thai Chicken Pizza
-
+
 Bottom 5 Selling Pizzas:
 1. Brie Carre Pizza
 2. Green Garden Pizza
@@ -38,9 +39,9 @@ Bottom 5 Selling Pizzas:
 4. Spinach Pesto Pizza
 5. Spinach Supreme Pizza
 Size Preferences (Pie Chart)
-
- Orders by Pizza Size:
-o Long Pizza size is the most ordered.
+
+Orders by Pizza Size:
+Long Pizza size is the most ordered.
 Actionable Recommendations
 1. Focus promotions and offers on Friday afternoons for maximum sales impact.
 2. Boost marketing efforts for Classic Deluxe Pizza, as it’s the most popular.
