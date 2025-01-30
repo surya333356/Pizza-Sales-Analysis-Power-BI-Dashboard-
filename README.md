@@ -1,7 +1,7 @@
 # Pizza-Sales-Analysis-Power-BI-Dashboard
 ![Pizza Sales Dashboard](https://github.com/user-attachments/assets/628eca70-b6d5-486c-b7d6-5bcb7add87f6)
 
-Pizza Sales Dashboard Insights :
+# Pizza Sales Dashboard Insights :
 Key Metrics (KPIs)
 1. Total Revenue: $817.86K
 2. Total Number of Orders: 21K
