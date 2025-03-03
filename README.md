@@ -1,5 +1,10 @@
 # Pizza-Sales-Analysis-Power-BI-Dashboard
-![Pizza Sales Dashboard](https://github.com/user-attachments/assets/628eca70-b6d5-486c-b7d6-5bcb7add87f6)
+![image](https://github.com/user-attachments/assets/bb8767dc-1a50-438e-8437-602488231008)
+
+![image](https://github.com/user-attachments/assets/da6485f5-087d-47c9-a156-11d02dcf91fa)
+
+![image](https://github.com/user-attachments/assets/257a2eb4-3156-49eb-8ff0-8e82dd33fb1a)
+
 
 # Pizza Sales Dashboard Insights :
 Key Metrics (KPIs)
