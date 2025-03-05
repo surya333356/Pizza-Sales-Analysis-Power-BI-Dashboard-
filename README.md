@@ -5,6 +5,8 @@
 
 ![image](https://github.com/user-attachments/assets/257a2eb4-3156-49eb-8ff0-8e82dd33fb1a)
 
+https://www.linkedin.com/posts/suryasingh77_postgresql-powerbi-pizzasales-activity-7302993093392306178-n2pY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEv2NOEBgsZvnmpDaoFjuOnPpMsdmzyLe6I
+
 
 # Pizza Sales Dashboard Insights :
 Key Metrics (KPIs)
